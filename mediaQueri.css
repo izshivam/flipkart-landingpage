@@ -1,0 +1,638 @@
+@media screen and (max-width:780px) {
+    .logo {
+        font-size: 0.5rem;
+    }
+
+    .navbar {
+        justify-content: space-evenly;
+        height: 50px;
+    }
+
+    .nav-logo {
+        height: 15px;
+    }
+
+    .logo-name {
+        font-size: 0.3rem;
+    }
+
+    .nav-name p {
+        margin-left: 1px;
+    }
+
+    /* box2 */
+    .nav-search {
+        height: 20px;
+        width: 48%;
+        border: 2px;
+    }
+
+    .search {
+        font-size: 0.5rem;
+        width: 95%;
+    }
+
+    .search-icon {
+        font-size: 0.5rem;
+        width: 15px;
+        border-top-right-radius: 2px;
+        border-bottom-right-radius: 2px;
+    }
+
+    /* box3 */
+
+    .btn {
+        height: 15px;
+        width: 25px;
+    }
+
+    .btn p {
+        font-size: 0.5rem;
+        font-weight: 250;
+    }
+
+    /* box4 */
+
+    .become p {
+        font-size: 0.4rem;
+        font-weight: 300;
+    }
+
+    /* box5 */
+
+    .more {
+        font-weight: 300;
+        font-size: 0.5rem;
+    }
+
+    /* box6 */
+
+    .delivery i {
+        font-size: 18px;
+    }
+
+    .delivery {
+        font-weight: 300;
+        font-size: 0.5rem;
+    }
+
+    /* header */
+
+    .items-icon {
+        height: 50px;
+    }
+
+    .items-icon img {
+        height: 25px;
+        width: 25px;
+    }
+
+    .para {
+        font-weight: 250;
+        font-size: 0.4rem;
+    }
+
+    /* hero-section */
+
+    .hero-section1 {
+        height: 120px;
+        margin: 4px;
+        gap: 4px;
+    }
+
+    .hero-img {
+        height: 120px;
+        width: 100%px;
+    }
+
+    /* hero-section2 */
+
+    .hero-section2 {
+        height: 120px;
+        width: 100%;
+        margin: 2px;
+        gap: 4px;
+    }
+
+    .hero-img02 {
+        height: 120px;
+        width: 100%;
+    }
+
+    
+.hero-img02 p {
+    font-size: 0.85rem;
+    
+}
+
+.hero-img02 button {
+    font-size: 0.7rem;
+    font-weight: 400;
+    background-color: #2874f0;
+    color: white;
+    border: none;
+    padding: 3px 10px;
+}
+
+
+.hero-img07 {
+    height: 120px;
+    width: 100%;
+    gap: 10px;
+}
+
+
+.hero-img07 p {
+font-size: 0.85rem;
+font-weight: 400;
+}
+
+.hero-img07 
+h2 {
+    font-size: 1rem;
+    color: black;
+    font-weight: 600;
+}
+
+.hero-img07 
+h3 {
+    font-size: 0.7rem;
+    color: red;
+}
+
+.best {
+    margin-top: 2px;
+    font-size: 0.6rem;
+    font-weight: 400;
+ }
+
+.from {
+    margin-top: 2px;
+    font-size: 0.6rem;
+    font-weight: 100;
+}
+
+
+.items {
+    margin-top: 2px;
+    font-size: 0.6rem;
+    font-weight: 100;
+}
+
+.hero-items {
+    margin: 10px;
+} 
+
+.items-img {
+    height: 60px;
+    width: 100px;
+}
+
+/* hero section 3 */
+    
+.hero-section3 {
+    height: 120px;
+    width: 100%;
+    margin: 2px;
+    gap: 4px;
+}
+
+    /* footer */
+
+    .foot-cart {
+        height: 150px;
+        width: 100%;
+    }
+
+
+    ul {
+       margin-top: 20px; 
+    }
+
+    ul a {
+        font-size: 0.3rem;
+        margin-top: 6px;
+    }
+
+    ul p {
+        font-size: 0.3rem;
+        color: #cdc5c5;
+    }
+
+    /* sub-footer */
+
+    .sub-footer {
+        height: 25px;
+        border-top: 0.5px solid #716c6c;
+    }
+
+    .sub-footer a {
+        font-size: 0.4rem;
+    }
+}
+
+/* ........... */
+
+
+/* ...........*/
+
+@media screen and (max-width:380px) {
+    .hero-section1 {
+        height: 120px;
+        margin: 4px;
+        gap: 4px;
+    }
+
+    .hero-img {
+        height: 120px;
+        width: 180px;
+    }
+
+    
+    .hero-section2 {
+        height: 140px;
+        width: 98%;
+        margin: 4px;
+    }
+
+    /* header */
+    
+    
+    .items-icon {
+        height: 40px;
+    }
+
+    .items-icon img {
+        height: 20px;
+        width: 20px;
+    }
+
+    .para {
+        font-weight: 200;
+        font-size: 0.3rem;
+    }
+
+    /* footer */
+
+    .foot-cart {
+        height: 120px;
+        width: 100%;
+    }
+
+
+    ul {
+       margin-top: 16px; 
+    }
+
+    ul a {
+        font-size: 0.26rem;
+        margin-top: 4px;
+    }
+
+    ul p {
+        font-size: 0.3rem;
+        color: #cdc5c5;
+    }
+
+    /* navbar */
+
+    .navbar {
+        height: 43px;
+    }
+
+
+    /* hero-section2 */
+
+    .hero-section2 {
+        height: 100px;
+        width: 100%;
+        margin: 2px;
+        gap: 4px;
+    }
+
+    .hero-img02 {
+        height: 100px;
+        width: 100%;
+    }
+
+    
+.hero-img02 p {
+    font-size: 0.7rem;
+    
+}
+
+.hero-img02 button {
+    font-size: 0.5rem;
+    font-weight: 200;
+    background-color: #2874f0;
+    color: white;
+    border: none;
+    padding: 2.5px 8px;
+}
+
+
+.hero-img07 {
+    height: 100px;
+    width: 100%;
+    gap: 8px;
+}
+
+
+.hero-img07 p {
+font-size: 0.4rem;
+font-weight: 400;
+}
+
+.hero-img07 
+h2 {
+    font-size: 0.85rem;
+    color: black;
+    font-weight: 500;
+}
+
+.hero-img07 
+h3 {
+    font-size: 0.5rem;
+    color: red;
+}
+
+.best {
+    margin-top: 2px;
+    font-size: 0.4rem;
+    font-weight: 300;
+ }
+
+.from {
+    margin-top: 1.5px;
+    font-size: 0.4rem;
+    font-weight: 100;
+}
+
+
+.items {
+    margin-top: 1.5px;
+    font-size: 0.4rem;
+    font-weight: 100;
+}
+
+.hero-items {
+    margin: 8px;
+} 
+
+.items-img {
+    height: 30px;
+    width: 40px;
+}
+
+/* hero section 3 */
+    
+.hero-section3 {
+    height: 100px;
+    width: 100%;
+    margin: 2px;
+    gap: 4px;
+}
+
+.hero-itemss {
+    margin: 8px;
+}
+
+}
+
+
+/* ......... */
+
+@media screen and (max-width:325px) {
+    .hero-section1 {
+        height: 100px;
+        margin: 3.5px;
+        gap: 3px;
+    }
+
+    .hero-img {
+        height: 100px;
+        width: 160px;
+    }
+
+    
+    .hero-section2 {
+        height: 120px;
+        width: 98%;
+        margin: 4px;
+    }
+
+    /* header */
+    
+    
+    .items-icon {
+        height: 35px;
+    }
+
+    .items-icon img {
+        height: 20px;
+        width: 20px;
+    }
+
+    .para {
+        font-weight: 200;
+        font-size: 0.3rem;
+    }
+
+    /* footer */
+
+    .foot-cart {
+        height: 120px;
+        width: 100%;
+    }
+
+
+    ul {
+       margin-top: 16px; 
+    }
+
+    ul a {
+        font-size: 0.24rem;
+        margin-top: 3.5px;
+    }
+
+    ul p {
+        font-size: 0.25rem;
+        color: #cdc5c5;
+    }
+
+    /* navbar */
+
+    .logo {
+        font-size: 0.38rem;
+    }
+
+    .navbar {
+        justify-content: space-evenly;
+        height: 40px;
+    }
+
+    .nav-logo {
+        height: 15px;
+    }
+
+    .logo-name {
+        font-size: 0.3rem;
+    }
+
+    .nav-name p {
+        margin-left: 1px;
+    }
+
+    /* box2 */
+    .nav-search {
+        height: 16px;
+        width: 45%;
+        border: 1.5px;
+    }
+
+    .search {
+        font-size: 0.45rem;
+        width: 95%;
+    }
+
+    .search-icon {
+        font-size: 0.5rem;
+        width: 12px;
+        border-top-right-radius: 1.5px;
+        border-bottom-right-radius: 1.5px;
+    }
+
+    /* box3 */
+
+    .btn {
+        height: 12px;
+        width: 22px;
+    }
+
+    .btn p {
+        font-size: 0.5rem;
+        font-weight: 250;
+    }
+
+    /* box4 */
+
+    .become p {
+        font-size: 0.4rem;
+        font-weight: 300;
+    }
+
+    /* box5 */
+
+    .more {
+        font-weight: 300;
+        font-size: 0.5rem;
+    }
+
+    /* box6 */
+
+    .delivery i {
+        font-size: 18px;
+    }
+
+    .delivery {
+        font-weight: 300;
+        font-size: 0.5rem;
+    }
+
+    /* hero-section2 */
+
+    .hero-section2 {
+        height: 80px;
+        width: 100%;
+        margin: 1px;
+        gap: 2px;
+    }
+
+    .hero-img02 {
+        height: 80px;
+        width: 100%;
+    }
+
+    
+.hero-img02 p {
+    font-size: 0.4rem;
+    
+}
+
+.hero-img02 button {
+    font-size: 0.4rem;
+    font-weight: 150;
+    background-color: #2874f0;
+    color: white;
+    border: none;
+    padding: 2px 6px;
+}
+
+
+.hero-img07 {
+    height: 80px;
+    width: 100%;
+    gap: 6px;
+}
+
+
+.hero-img07 p {
+font-size: 0.4rem;
+font-weight: 300;
+}
+
+.hero-img07 
+h2 {
+    font-size: 0.6rem;
+    color: black;
+    font-weight: 300;
+}
+
+.hero-img07 
+h3 {
+    font-size: 0.4rem;
+    color: red;
+}
+
+.best {
+    margin-top: 1.5px;
+    font-size: 0.2.5rem;
+    font-weight: 200;
+ }
+
+.from {
+    margin-top: 1px;
+    font-size: 0.3rem;
+    font-weight: 100;
+}
+
+
+.items {
+    margin-top: 1px;
+    font-size: 0.3rem;
+    font-weight: 100;
+}
+
+.hero-items {
+    margin: 6px;
+} 
+
+.items-img {
+    height: 30px;
+    width: 40px;
+}
+
+/* hero section 3 */
+    
+.hero-section3 {
+    height: 80px;
+    width: 100%;
+    margin: 2px;
+    gap: 2;
+}
+
+.hero-itemss {
+    margin: 4.3px;
+}
+
+}
